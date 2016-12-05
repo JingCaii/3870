@@ -1,4 +1,7 @@
-body { font: 400 1em/1.5 "Neuton"; background: #090d00; color: rgba(255,255,255,.25); text-align: center; margin: 0 }
+body { font: 400 1em/1.5 "Neuton";
+			background: #090d00;
+			color: rgba(255,255,255,.25);
+			text-align: center; margin: 0; }
 
 p {
 	text-transform: uppercase;
@@ -42,8 +45,8 @@ h1 {
 	padding: 1.5em 0em;
 	position: absolute;
 	top:45%;
-	left: 50%;
-	width: 40em;
+	right: 38.4%;
+
 	margin: 0 0 0 -20em;
 }
 h1 span {
