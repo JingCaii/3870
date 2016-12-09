@@ -62,3 +62,6 @@ body{
   nav a.current {
    background-color: #E8705E;
   }
+
+.center {text-align: center;
+}
